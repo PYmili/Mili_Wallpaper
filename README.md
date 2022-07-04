@@ -1,6 +1,6 @@
 # Mili_Wallpaper
 
-![Mili_Wallpaper](https://www.kuko.icu/API/MiliWallpaper/Mili_Wallpaper_Version/img/mili_wallpaper.ico) Mili_Wallpaper 使用 Python 和 tkinter-gui库开发制作的桌面动态壁纸程序
+![Mili_Wallpaper](./image/mili_wallpaper.ico) Mili_Wallpaper 使用 Python 和 tkinter-gui库开发制作的桌面动态壁纸程序
 
 # 作者 PYmili
 ![PYmili](https://www.kuko.icu/PYmili/img/PYmili_400x400.jpg)
