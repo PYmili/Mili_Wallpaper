@@ -10,6 +10,7 @@
 ### https://github.com/mpv-player/mpv Mpv
 ### https://github.com/FFmpeg/FFmpeg FFmpeg
 ### 程序的播放器现支持 FFmpeg 与 Mpv 播放
+# 此地址仓库没有上传ffmpeg及mpv请到这里下载：https://gitcode.net/qq_53280175/mili_wallpaper
 
 后期会相应更新其他播放器，欢迎投稿!
 
