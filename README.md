@@ -4,7 +4,7 @@
 
 # 作者 PYmili
 ![PYmili](https://www.kuko.icu/PYmili/img/PYmili_400x400.jpg)
-### 官网网址：[kuko.icu]('https://www.kuko.icu') 个人博客：[mpen](http://mpen.natapp1.cc)
+### 官网网址：[kuko.icu](https://www.kuko.icu) 个人博客：[mpen](http://mpen.natapp1.cc)
 
 # 非常感谢 !!!
 ### https://github.com/mpv-player/mpv Mpv
