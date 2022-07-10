@@ -1,6 +1,6 @@
 # Mili_Wallpaper
 
-## 完整文件请到：https://gitcode.net/qq_53280175/mili_wallpaper查看
+## 完整文件请到：https://gitcode.net/qq_53280175/mili_wallpaper 查看
 
 ![Mili_Wallpaper](https://www.kuko.icu/API/MiliWallpaper/Mili_Wallpaper_Version/img/mili_wallpaper.ico) Mili_Wallpaper 使用 Python 和 tkinter-gui库开发制作的桌面动态壁纸程序
 
