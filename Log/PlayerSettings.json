@@ -1,9 +1,0 @@
-{
-  "Player": [
-    "ffmpeg",
-    "mpv"
-  ],
-  "use": "ffmpeg",
-  "delay_local": 0.5,
-  "delay_network": 3
-}
