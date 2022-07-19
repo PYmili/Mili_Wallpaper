@@ -2,6 +2,9 @@
 
 ![Mili_Wallpaper](https://www.kuko.icu/API/MiliWallpaper/Mili_Wallpaper_Version/img/mili_wallpaper.ico) Mili_Wallpaper 使用 Python 和 tkinter-gui库开发制作的桌面动态壁纸程序
 
+[![OSCS Status](https://www.oscs1024.com/platform/badge/PYmili/Mili_Wallpaper.svg?size=small)](https://www.oscs1024.com/project/PYmili/Mili_Wallpaper?ref=badge_small)
+
+
 # 作者 PYmili
 ![PYmili](https://www.kuko.icu/PYmili/img/PYmili_400x400.jpg)
 ### 官网网址：[kuko.icu](https://www.kuko.icu) 个人博客：[mpen](http://mpen.natapp1.cc)
