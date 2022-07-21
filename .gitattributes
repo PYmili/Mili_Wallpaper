@@ -1,0 +1,2 @@
+Windows_10_x86/Mili_Wallpaper-2.6-Widnows10_x86.zip filter=lfs diff=lfs merge=lfs -text
+Windows_10_11_x64/Mili_Wallpaper-2.6-Windows_10_11_x64.zip filter=lfs diff=lfs merge=lfs -text
