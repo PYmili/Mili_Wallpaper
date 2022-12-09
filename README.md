@@ -1,6 +1,6 @@
 # Mili_Wallpaper
 
-![Mili_Wallpaper](https://www.kuko.icu/static/MiliWallpaper/Mili_Wallpaper_Version/img/mili_wallpaper.ico) 
+![Mili_Wallpaper](https://github.com/PYmili/Mili_Wallpaper/blob/master/image/mili_wallpaper.ico) 
 
 <font color=blue>Mili_Wallpaper 使用 Python 和 tkinter-gui库开发制作的桌面动态壁纸程序</font>
 
